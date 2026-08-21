@@ -6,7 +6,7 @@ My accepted solutions to Beecrowd problems, organized by category.
 
 |            Categor            | Solved |
 |-------------------------------|--------|
-| Beginner                      |    0   |
+| Beginner                      |    3   |
 | Ad-Hoc                        |    0   |
 | Strings                       |    0   |
 | Data Structures and Libraries |    0   |
