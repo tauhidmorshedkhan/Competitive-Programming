@@ -6,7 +6,7 @@ My accepted solutions to Codeforces problems, organized by problem rating.
 
 | Rating | Solved |
 |--------|--------|
-| 800    | 1      |
+| 800    | 3      |
 | 900    | 0      |
 | 1000   | 0      |
 | 1100   | 0      |
