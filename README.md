@@ -5,8 +5,8 @@ Competitive programming solutions from Codeforces, Beecrowd, and other online ju
 
 |   Rating   | Solved |
 |------------|--------|
-| Codeforces | 1      |
-| Beecrowd   | 3      |
+| Codeforces | 3      |
+| Beecrowd   | 5      |
 | HackerRank | 0      |
 | LeetCode   | 0      |
 | CodeChef   | 0      |
