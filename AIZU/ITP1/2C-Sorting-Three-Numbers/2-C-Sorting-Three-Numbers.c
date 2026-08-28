@@ -42,5 +42,9 @@ int main() {
     {
         printf("%ld %ld %ld\n", A, B, C);
     }
+    else if (A == B && B == C)
+    {
+        printf("%ld %ld %ld\n", A, B, C);
+    }
     return 0;
 }
