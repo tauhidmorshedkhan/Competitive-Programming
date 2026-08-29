@@ -5,8 +5,8 @@ int main() {
     scanf("%d %d %d", &a, &b, &c);
     if (a != b)
     {
-        if (c > a && c > b)
-    printf("Yes\n");
+    if (c > a && c > b)
+        printf("Yes\n");
     else
     {
         printf("No\n");
