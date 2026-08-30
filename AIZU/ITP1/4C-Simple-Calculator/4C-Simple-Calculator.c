@@ -22,7 +22,7 @@ int main() {
         {
             printf("%d\n", a * b);
         }
-        else
+        else if (operator == '/')
         {
             printf("%d\n", a / b);
         }
