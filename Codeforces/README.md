@@ -11,4 +11,4 @@ My accepted solutions to Codeforces problems, organized by problem rating.
 | 1000   | 0      |
 | 1100   | 0      |
 | 1200   | 0      |
-| Other  | 0      |
+| Other  | 2      |
