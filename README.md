@@ -5,7 +5,7 @@ Competitive programming solutions from Codeforces, Beecrowd, and other online ju
 
 |   Rating   | Solved |
 |------------|--------|
-| Codeforces | 7      |
+| Codeforces | 12     |
 | Beecrowd   | 5      |
 | AIZU       | 15     |
 | HackerRank | 0      |
