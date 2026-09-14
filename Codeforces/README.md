@@ -8,7 +8,7 @@ My accepted solutions to Codeforces problems, organized by problem rating.
 |--------|--------|
 | 800    | 16     |
 | 900    | 0      |
-| 1000   | 1      |
+| 1000   | 2      |
 | 1100   | 0      |
 | 1200   | 0      |
 | Other  | 2      |
