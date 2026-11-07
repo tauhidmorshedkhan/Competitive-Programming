@@ -7,7 +7,7 @@ Competitive programming solutions from Codeforces, AIZU, CodeChef, Beecrowd, and
 |------------|--------|
 | Codeforces | 21     |
 | AIZU       | 15     |
-| CodeChef   | 6      |
+| CodeChef   | 7      |
 | Beecrowd   | 6      |
 | Atcoder    | 1      |
 
